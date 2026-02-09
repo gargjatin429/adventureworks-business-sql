@@ -1,0 +1,16 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# SQL Server artifacts
+*.bak
+*.mdf
+*.ldf
+
+# Logs & temp
+*.log
+*.tmp
